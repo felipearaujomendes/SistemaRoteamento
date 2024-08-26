@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaRoteamento", "SistemaRoteamento\SistemaRoteamento.csproj", "{6C45C691-0D3A-4503-8E64-FE375B132AE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedidoServiceTests", "PedidoServiceTests\PedidoServiceTests.csproj", "{0655D891-DC4A-4E55-9EB1-55855E1F5E6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C45C691-0D3A-4503-8E64-FE375B132AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C45C691-0D3A-4503-8E64-FE375B132AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C45C691-0D3A-4503-8E64-FE375B132AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C45C691-0D3A-4503-8E64-FE375B132AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0655D891-DC4A-4E55-9EB1-55855E1F5E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0655D891-DC4A-4E55-9EB1-55855E1F5E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0655D891-DC4A-4E55-9EB1-55855E1F5E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0655D891-DC4A-4E55-9EB1-55855E1F5E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69524416-5F9A-4D25-BF8C-5D3EA1F388D3}
+	EndGlobalSection
+EndGlobal
